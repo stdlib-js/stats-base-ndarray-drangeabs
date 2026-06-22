@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-17)
+## Unreleased (2026-06-22)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`dadabba`](https://github.com/stdlib-js/stdlib/commit/dadabba66e44060c40b231ebf1862aa0453e5285) - **chore:** resolve C compiler warnings _(by Athan Reines)_
 -   [`a403638`](https://github.com/stdlib-js/stdlib/commit/a403638f69923986e5da20a2ad8e4f9653b8eef6) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`3a2b51e`](https://github.com/stdlib-js/stdlib/commit/3a2b51e148b68f6c74a56b36aed31a2af0c6fa0e) - **feat:** add C implementation for `stats/base/ndarray/drangeabs` [(#10016)](https://github.com/stdlib-js/stdlib/pull/10016) _(by Bhargav Dabhade, Sachin Pangal, stdlib-bot)_
 
